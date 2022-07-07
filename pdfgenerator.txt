@@ -1,0 +1,4 @@
+openpdf
+itextpdf
+pdfbox
+thymeleaf(flying - saucer-pdf)
